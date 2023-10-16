@@ -1,11 +1,12 @@
 {
     "name": "WaldorfTest",
     "dataName": "rpgwaldorf",
-    "persona": "13",
+    "persona": 13,
     "streaming": true,
     "gamedev": false,
     "guest": false,
 
-    "dialogue1": "Oh, ti ho sentito, sai?\nGrazie per chiamarmi carina! ♥"
+    "dialogue1": "Oh, ti ho sentito, sai?\nGrazie per chiamarmi carina! ♥",
+    "dialogue2": "Certamente, perché non passi a giocare a Subnautica\nprima di finire questo gioco?"
 
 }
