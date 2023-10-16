@@ -1,14 +1,15 @@
 {
     "name": "WaldorfTest",
     "dataName": "rpgwaldorf",
-    "persona": 13,
+    "personaID": 13,
     "streaming": true,
     "gamedev": false,
     "guest": false,
+    "dialogoGiudizio": -1,
 
-    "dialogue1": "Oh, ti ho sentito, sai?\nGrazie per chiamarmi carina! ♥",
-    "dialogue2": "Certamente, perché non passi a giocare a Subnautica\nprima di finire questo gioco?",
-    "dialogue3": "oh, ma stai ancora giocando???",
-    "dialogue4": "io ci provo, ma tu non smetti"
+    "giudizio1": "Oh, ti ho sentito, sai?\nGrazie per chiamarmi carina! ♥",
+    "giudizio2": "Certamente, perché non passi a giocare a\nSubnautica prima di finire questo gioco?",
+    "giudizio3": "oh, ma stai ancora giocando???",
+    "giudizio4": "io ci provo, ma tu non smetti. Caro WALDORF"
 
 }
