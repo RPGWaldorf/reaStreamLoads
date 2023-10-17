@@ -1,7 +1,7 @@
 {
     "name": "Waldorf testing",
     "dataName": "",
-    "personaID": 105,
+    "personaID": -1,
     "streaming": true,
     "gamedev": true,
     "guest": false,
