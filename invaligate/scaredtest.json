@@ -1,0 +1,17 @@
+{
+    "name": "Gianmarco",
+    "dataName": "giammisisters",
+    "personaID": 22,
+    "streaming": false,
+    "gamedev": false,
+    "guest": true,
+    "dialogoGiudizio": -1,
+
+    "giudizio1": "Dopotutto, questo gioco non è veramente così horror.",
+    "giudizio2": "So che non ti piacciono, per questo volevo sfruttare l'occasione a dovere per prenderti un pochino in giro! ♥",
+    "giudizio3": "Certamente. Dopotutto, sono così carina che mica posso incutere paura!",
+    "giudizio4": "Ma questo non vuol dire che non purgherai il tuo peccato in questo purgatorio cucinato apposta per te!",
+    "giudizio5": "Non sarà spaventoso, ma solo... diversamente simpatico! C:",
+    "giudizio6": "Divertiti, Giammenefreganiente."
+
+}
