@@ -1,15 +1,24 @@
 {
-    "1": {
-        "char": 1,
-        "text": "Quanti banter ancora ci sono?"
+    "extra0": {
+        "char1": 1,
+        "char2": 2,
+        "banter": {
+            "p1": 1,
+            "t1": "Ciaone",
+            "p2": 2,
+            "t2": "Rispondone!!"
+        }
     },
-    "2": {
-        "char": 2,
-        "text": "Finiranno a breve, tranquillo."
-    },
-    "3": {
-        "char": 1,
-        "text": "Speriamo di no?"
+
+    "extra1": {
+        "char1": 3,
+        "char2": 4,
+        "banter": {
+            "p1": 4,
+            "t1": "aaaaaa",
+            "p2": 3,
+            "t2": "bbbbb!!"
+        }
     },
 
 
