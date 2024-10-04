@@ -1,0 +1,10 @@
+{
+    "currentState": "eng",
+    "ready": "",
+    "offline": "Il fantasmino è offline, riprova ad un orario migliore.",
+    "break": "Il fantasmino è in pausa, ritornerà tra poco!",
+    "error": "Problemi tecnici in corso...",
+    "eng": "il fantasmino sta facendo uno streaming in inglese.",
+    "0": ""
+
+}
