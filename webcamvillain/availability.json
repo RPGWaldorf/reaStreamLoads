@@ -1,10 +1,13 @@
 {
-    "currentState": "eng",
+    "currentState": "ready",
     "ready": "",
     "offline": "Il fantasmino è offline, riprova ad un orario migliore.",
     "break": "Il fantasmino è in pausa, ritornerà tra poco!",
-    "error": "Problemi tecnici in corso...",
+    "stop": "Fantasmino Paurino si è preso un giorno libero, riprova domani.",
     "eng": "il fantasmino sta facendo uno streaming in inglese.",
-    "0": ""
+    "busy": "sta facendo una collab con un altro streamer, meglio aspettare che finisca.",
+    "lastbusy": "sta facendo una collab prima di chiudere. Riproviamo domani",
+    "over": "Pausa indeterminata.",
+    "period": "contest"
 
 }
