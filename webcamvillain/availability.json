@@ -8,6 +8,8 @@
     "busy": "sta facendo una collab con un altro streamer, meglio aspettare che finisca.",
     "lastbusy": "sta facendo una collab prima di chiudere. Riproviamo domani",
     "over": "Pausa indeterminata.",
-    "period": "contest"
+    "period": "contest",
+    "link": "https://vdo.ninja/?scene&room=PumpkinTest97&password=123",
+    "code": [171, 22, 174, 133]
 
 }
