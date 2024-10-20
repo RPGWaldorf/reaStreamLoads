@@ -1,13 +1,17 @@
 {
-    "currentState": "ready",
-    "ready": "",
+    "currentState": "offline",
+    "ready": "ok ready2 che permette di rigiocare anche se sei morto)",
+    "ready2": "permette di rigiocare anche se sei morto o chiuso in fase 2",
+    "eng": "il fantasmino sta facendo uno streaming in inglese. (& eng2)",
     "offline": "Il fantasmino è offline, riprova ad un orario migliore.",
-    "break": "Il fantasmino è in pausa, ritornerà tra poco!",
+    "busy": "crashato (torna tra mezz'ora).",
+    "break": "Il fantasmino è in pausa (qualche ora)",
     "stop": "Fantasmino Paurino si è preso un giorno libero, riprova domani.",
-    "eng": "il fantasmino sta facendo uno streaming in inglese.",
-    "busy": "sta facendo una collab con un altro streamer, meglio aspettare che finisca.",
-    "lastbusy": "sta facendo una collab prima di chiudere. Riproviamo domani",
-    "over": "Pausa indeterminata.",
+    "noMore": "streaming finiti",
+    
+    "absolute": "Come ready. Ignores blocks",
+    "error": "come offline, ma si camuffa da errore, per i tester quando non ci sono",
+
     "period": "contest",
     "link": "https://vdo.ninja/?scene&room=PumpkinTest97&password=123",
     "code": [171, 22, 174, 133]
