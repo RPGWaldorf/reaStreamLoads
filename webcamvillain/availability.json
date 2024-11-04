@@ -1,5 +1,5 @@
 {
-    "currentState": "absolute",
+    "currentState": "noMore",
     "ready": "ok ready2 che permette di rigiocare anche se sei morto)",
     "ready2": "permette di rigiocare anche se sei morto o chiuso in fase 2",
     "eng": "il fantasmino sta facendo uno streaming in inglese. (& eng2)",
@@ -14,6 +14,6 @@
 
     "period": "contest",
     "link": "https://vdo.ninja/?scene&room=PumpkinTest97&password=123",
-    "code": [171, 22, 174, 133]
+    "codeFalso": [171, 22, 174, 133]
 
 }
