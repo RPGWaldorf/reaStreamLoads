@@ -1,0 +1,19 @@
+{
+    "name": "Goddess Hécate2",
+    "dataName": "megamimajou2",
+    "personaID": 107,
+    "streaming": true,
+    "gamedev": false,
+    "guest": false,
+    "dialogoGiudizio": -1,
+    "avatarlink": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Kizuna_AI_-_SCP_Foundation_2.png",
+    "facelink": "https://i.imgur.com/8N4hIGv.png",
+    "tamagotchiname": "Megagotchi2",
+
+    "giudizio1": "Test1.",
+    "giudizio2": "Certamente. Dopotutto, sono così carina che mica posso incutere paura!",
+    "giudizio3": "Ma questo non vuol dire che non purgherai il tuo peccato in questo purgatorio cucinato apposta per te!",
+    "giudizio4": "Non sarà spaventoso, ma solo... diversamente simpatico! C:",
+    "giudizio5": "Divertiti, Giammenefreganiente."
+
+}
