@@ -1,0 +1,34 @@
+{
+    "1": {
+        "char": 2,
+        "text": "Weeeeeeird.<br>The god of overlays told me to relay a message on his behalf."
+    },
+    "2": {
+        "char": 1,
+        "text": "Cool! Did I pique his intrest?"
+    },
+    "3": {
+        "char": 2,
+        "text": "That's the weird part.<br>The message was not for you."
+    },
+    "4": {
+        "char": 1,
+        "text": "Wha-?! If not for me then for whom?"
+    },    
+    "5": {
+        "char": 2,
+        "text": "For a certain 'Nova'.<br>The message is: 'stop dying and continue playing, the dialogues are about to end!'"
+    },
+    "6": {
+        "char": 1,
+        "text": "Uh? Who's Nova?!<br>I'm the one dying!"
+    },
+    "7": {
+        "char": 2,
+        "text": "Beats me.<br>The god of overlays is so cryptic most of the times."
+    },
+
+
+    "end": ""
+
+}
