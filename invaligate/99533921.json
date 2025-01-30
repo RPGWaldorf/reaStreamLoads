@@ -1,0 +1,15 @@
+{
+    "name": "Kuro",
+    "dataName": "kuroonist",
+    "personaID": 10,
+    "streaming": true,
+    "gamedev": true,
+    "guest": true,
+    "dialogoGiudizio": -1,
+
+    "giudizio1": "I've been watching the stream for this whole time.\\.\\. If you're playing this, there's probably.",
+    "giudizio2": "But, alas, the time has finally come for you to purge your gaming sins.",
+    "giudizio3": "I heard you play a lot of RPG Maker games, so I see it fitting to throw you in the middle of another one.",
+    "giudizio4": "So... are you ready, \\|Kuro?<br>\\|\\|(Oh, and hello to Izumilia as well. Didn't see you there!)"
+
+}
