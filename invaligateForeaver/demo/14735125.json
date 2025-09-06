@@ -4,10 +4,8 @@
     "demo2": "Frase 2",
     "faccia2": 1,
     "demo3": "Ultima frase",
-    "faccia3": 0,
-    "demo4": "",
-    "faccia4": 0,
-    "demo5": "",
-    "faccia5": 0
+    "faccia3": 100,
+    "demo4": "Ultima frase",
+    "faccia4": 2
 
 }
