@@ -1,0 +1,15 @@
+{
+    "name": "Testspeed",
+    "personaID": 100,
+    "streaming": true,
+    "gamedev": false,
+    "guest": true,
+    "dialogoGiudizio": -1,
+
+    "giudizio1": "Hi [name]\\|\\..",
+    "giudizio2": "You really thought I wouldn't interject during such an important event?<br>How cute.\\|\\.",
+    "giudizio3": "The crowd is absurdly adorable today. I would blow a kiss if I had the animation for it!",
+    "giudizio4": "But now let's continue as usual. And since ya' all seem to be on a tight schedule to speed them all...",
+    "giudizio5": "..it seems only fitting to send you in the speedrun minigame. Many hearts for everyone!"
+
+}
