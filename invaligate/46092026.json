@@ -6,10 +6,10 @@
     "guest": true,
     "dialogoGiudizio": -1,
 
-    "giudizio1a": "\\.\\.Hi [name].\\|\\.",
-    "giudizio2a": "You really thought I wouldn't interject during such an important event as AGDQ?\\|<br>How cute.\\|\\.",
-    "giudizio3a": "The crowd is absurdly adorable today. I would blow a kiss to you all if only I had the animation for it!",
-    "giudizio4a": "Don't get me wrong. I'll still do what I can to stop you. A slight mistake can still cost you the run.",
-    "giudizio5a": "Now, let's pretend this never happen and let's return to the game's script-"
+    "giudizio1": "\\.\\.Hi [name].\\|\\.",
+    "giudizio2": "You really thought I wouldn't interject during such an important event as AGDQ?\\|<br>How cute.\\|\\.",
+    "giudizio3": "The crowd is absurdly adorable today. I would blow a kiss to you all if only I had the animation for it!",
+    "giudizio4": "Don't get me wrong. I'll still do what I can to stop you. A slight mistake can still cost you the run.",
+    "giudizio5": "Now, let's pretend this never happen and let's return to the game's script-"
 
 }
