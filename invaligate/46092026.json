@@ -5,6 +5,8 @@
     "gamedev": false,
     "guest": true,
     "dialogoGiudizio": -1,
+    "avatarlink": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Kizuna_AI_-_SCP_Foundation_2.png",
+    "facelink": "https://i.imgur.com/8N4hIGv.png",
 
     "giudizio1a": "\\.\\.Hi [name].\\|\\|",
     "giudizio2a": "You really thought I wouldn't interject during such an important event as AGDQ?\\|<br>How cute.\\|\\.",
