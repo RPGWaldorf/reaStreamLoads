@@ -5,14 +5,10 @@
     "gamedev": false,
     "guest": true,
     "dialogoGiudizio": -1,
-    "avatarlink": "https://i.imgur.com/HBfhRY7.png",
-    "facelink": "https://i.imgur.com/8oPKGG7.png",
-    "tamagotchiname": "Kishigotchi ",
 
-    "giudizio1": "\\.\\.You're pretty fast,\\. Sushi Kishi.\\|\\|",
-    "giudizio2": "You really thought I wouldn't say hi during such an important event like AGDQ?\\|<br>How cute.\\|\\.",
-    "giudizio3": "The crowd is absurdly adorable today. \\.I would blow a kiss to you all if only I had the animation for it!",
-    "giudizio4": "Don't get me wrong:\\. I'll still do what I can to stop you. \\.A slight mistake in the final fight can still cost you the run.",
-    "giudizio5": "Now, let's pretend this never happened and let's return to the game's script-"
+    "giudizio1": "\\.\\.You brought me to AGDQ? \\.That's a first one.\\|\\|",
+    "giudizio2": "If it can reassure the staff, I just want to say hi.\\| Must be confusing for everyone.<br>\\.How cute.\\|\\.",
+    "giudizio3": "But- don't get me wrong:\\. I'll still do what I can to stop you.",
+    "giudizio4": "Now, let's pretend this never happened and let's return to the game's script-"
 
 }
