@@ -1,6 +1,6 @@
 {
     "name": "Testspeed",
-    "personaID": 100,
+    "personaID": -1,
     "streaming": true,
     "gamedev": false,
     "guest": true,
