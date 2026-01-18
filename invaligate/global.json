@@ -1,0 +1,11 @@
+{
+    "name": "global",
+    "personaID": -1,
+    "streaming": true,
+    "gamedev": false,
+    "guest": true,
+    "dialogoGiudizio": -1,
+
+    "giudizio1": "A test for everyone",
+    "giudizio2": "Test streaming"
+}
